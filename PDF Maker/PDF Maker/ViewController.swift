@@ -14,7 +14,6 @@ class ViewController: UIViewController {
         let label = UILabel()
         label.numberOfLines = 0
         label.textAlignment = .center
-        label.backgroundColor = .red
         label.text = "Starting..."
         return label
     }()
